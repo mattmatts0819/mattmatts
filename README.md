@@ -6,4 +6,4 @@ Hi there! I am a sophomore at Penn State University in the Enterprise Technology
 - asg-4 is an in-class Java project that shows introductory skills in inheritance and data storage. This is my first project using MVC app design.
 - sllPrac is a Java practice project demonstrating knowledge in abstract data types, more specifically, Singly Linked Lists.
 - SustainaBowl is a Figma project that demonstrates my wireframing skills.
-- IST261_Semester_Project is a studio class assignment showcasing my skills with the MVC structure, as well as API calls and basic UI design.
+- IST261_Semester_Project is a studio class assignment showcasing my skills with the MVC structure, as well as API calls and basic UI design. This project also represents my skills with data persistance.
