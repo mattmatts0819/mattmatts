@@ -4,6 +4,6 @@ Hi there! I am a sophomore at Penn State University in the Enterprise Technology
 - img_viewer.py is a intro project into the world of Python GUI design as well as accessing files on the local machine.
 - AllergyAppProto is a presentation containing a wireframe of my first design project, an app used to track food allergies between restaurants. The files are in JPEG form for esy viewing.
 - asg-4 is an in-class Java project that shows introductory skills in inheritance and data storage. This is my first project using MVC app design.
-- SinglyLinkedList is a Java practice project demonstrating knowledge in abstract data types.
+- sllPrac is a Java practice project demonstrating knowledge in abstract data types, more specifically, Singly Linked Lists.
 - SustainaBowl is a Figma project that demonstrates my wireframing skills.
 - IST261_Semester_Project is a studio class assignment showcasing my skills with the MVC structure, as well as API calls and basic UI design.
