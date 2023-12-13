@@ -1,0 +1,56 @@
+1,bruins Jersey,Long-Sleeve Shirt,Black,Medium
+2,pooh shirt,T-Shirt,White,Lite
+3,motorcycle shirt,T-Shirt,Black,Lite
+4,PSU polo shirt,T-Shirt,Navy Blue,Lite
+5,Carhartt Pocket Tee,T-Shirt,Gray,Medium
+6,Mickey Shirt,T-Shirt,Gray,Lite
+7,Boston Players Tee,T-Shirt,Navy Blue,Lite
+8,Music Notes Shirt,T-Shirt,Turquoise,Lite
+9,Alaska Tee,T-Shirt,Light Gray,Medium
+10,Watermelon Fest Shirt,T-Shirt,Light Gray,Medium
+11,George Straight Shirt,T-Shirt,Brown,Medium
+12,Coke Shirt,T-Shirt,Brown,Lite
+13,Chevelle Shirt,T-Shirt,Black,Lite
+14,Chemistry Day Shirt,T-Shirt,Black,Lite
+15,Uniqlo Plain Shirt,T-Shirt,Black,Medium
+16,Knit Button Up,T-Shirt,Mint Green,Medium
+17,Button Up,T-Shirt,Black,Lite
+18,Wrangler Pearl Snap,Long-Sleeve Shirt,Navy Blue,Medium
+19,LL Bean Button Up,Long-Sleeve Shirt,Navy Blue,Medium
+20,Denim Shirt,Long-Sleeve Shirt,Light Blue,Medium
+21,Grand Canyon Denim Shirt,Long-Sleeve Shirt,Light Blue,Medium
+22,Safari Button Up,T-Shirt,Army Green,Medium
+23,White Shirt,Long-Sleeve Shirt,White,Medium
+24,Double Knee Jeans,Pants,Light Blue,Heavy
+25,Bootcut Jeans,Pants,Light Blue,Medium
+26,Levis 550s,Pants,Light Blue,Medium
+27,Levis 569s,Pants,Light Blue,Medium
+28,Levis 550s,Pants,Black,Medium
+29,Selvedge Denim jeans,Pants,Dark Blue,Heavy
+30,Wrangler Jeans,Pants,Med Blue,Medium
+31,Mossy Oak Cargo Pants,Pants,Army Green,Medium
+32,Dickies Overalls,Pants,White,Medium
+33,Carhartt Jeans,Pants,Light Blue,Medium
+34,Levis 505s,Pants,Med Blue,Medium
+35,Dickies Work Pants,Pants,Black,Medium
+36,Bronson Khaki Pants,Pants,Khaki,Medium
+37,Bronson Sweats,Pants,Gray,Heavy
+38,Carhartt Jacket,Outerwear,Khaki,Heavy
+39,Leather Moto Jacket,Outerwear,Black,Heavy
+40,Leather Jacket,Outerwear,Black,Heavy
+41,Suede Jacket,Outerwear,Brown,Heavy
+42,LL Bean Parka,Outerwear,Black,Xtra Heavy
+43,Marlboro Denim Jacket,Outerwear,Med Blue,Medium
+44,WE ARE Shirt,T-Shirt,Navy Blue,Medium
+45,S-Zone Shirt,T-Shirt,Navy Blue,Lite
+46,Grand Canyon Shirt,T-Shirt,Purple,Lite
+47,Cream Shirt,Long-Sleeve Shirt,Cream,Medium
+48,Nike Sweatshirt,Crewneck,Black,Medium
+49,Vintage PSU Sweatshirt,Crewneck,Navy Blue,Medium
+50,Buffalo Sweatshirt,Crewneck,White,Medium
+51,Tow Truck Sweatshirt,Crewneck,Black,Medium
+52,Snap Pizza Sweatshirt,Hoodie,Black,Medium
+53,Eddie Bauer Sweatshirt,Hoodie,Brown,Medium
+54,Mrytle Beach Sweatshirt,Crewneck,Coral,Medium
+55,Lands End Puffer,Outerwear,Indigo,Heavy
+56,White hoodie,Sweatchirt,white,Medium
